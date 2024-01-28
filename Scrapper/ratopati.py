@@ -17,7 +17,8 @@ def extract_news(soup):
     cleaned_title=cleaned_title.strip()
     news_article=' '.join(article)
     news_article=news_article.strip()
-    return cleaned_title,news_article
+    cleaned_article=news_article.replace("\n","")
+    return cleaned_title,cleaned_article
 
 
 def get_soup(url):
@@ -28,20 +29,30 @@ def get_soup(url):
     soup = BeautifulSoup(response.content, 'lxml')
     return soup
 
-
 if __name__=="__main__":
     page_no=1
-    base_url="https://www.ratopati.com/category/news?page"+str(page_no)
-    soup=get_soup(base_url)
-    link=get_link(soup)
+    page_limit=200
+
+    
+   
     # print(link)
-    news_link=get_link(soup)
-    for link in news_link:
-        soup=get_soup(link)
+    while page_no <= page_limit:
+        base_url="https://www.ratopati.com/category/news?page="+str(page_no)
+        soup=get_soup(base_url)
+        link=get_link(soup)
+        news_link=get_link(soup)
         
-        title,news=extract_news(soup)
-        with open("news.txt",'a') as f:
-            f.write(str(news)+'\n')
-        with open("title.txt",'a') as f:
-            f.write(str(title)+'\n')
+        for link in news_link:
+            soup=get_soup(link)
+            
+            title,news=extract_news(soup)
+                
+            if title and news is not None:
+                print(title,len(news))
+                with open("news.txt",'a') as f:
+                    f.write(str(news)+'\n')
+                with open("title.txt",'a') as f:
+                    f.write(str(title)+'\n')
+        page_no+=1
+        
     
