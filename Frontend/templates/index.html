@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nepali News Summarizer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Nepali News Summarizer</h1>
+        <form action="/summarize" method="post">
+            <div class="input-summary">
+                <textarea name="text" id="text" placeholder="Enter your text here..." required></textarea>
+                <button type="submit">Summarize</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+
