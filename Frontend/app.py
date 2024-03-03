@@ -4,20 +4,23 @@ from flask_cors import CORS
 from flask import jsonify
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 import re
+# from dotenv import load_dotenv
+import os
 from Scrapper.onlinekhabar import OnlinekhabarScraper
 from Scrapper.ekantipur import EkantipurkhabarScraper
 from Scrapper.nayapatrika import NayaPatrikaScraper
-from Scrapper.setopati import SetopatiScraper
 from Scrapper.ratopati import RatopatiScraper
+from Scrapper.setopati import SetopatiScraper
+
+
 
 app = Flask(__name__)
 CORS(app)
 
-#mt5 model
+#loading mT5 model
 tokenizer = AutoTokenizer.from_pretrained("Adarsh203/new_mT5_Sum")
 model = AutoModelForSeq2SeqLM.from_pretrained("Adarsh203/new_mT5_Sum")
-
-#mbart model
+# Loading mBART model
 tokenizer2 = AutoTokenizer.from_pretrained("Kishan11/mBART_SUM")
 model2 = AutoModelForSeq2SeqLM.from_pretrained("Kishan11/mBART_SUM")
 
@@ -39,7 +42,6 @@ API_KEY = "b990dbcbaf50a594e0f123cdd9f976706c7e4e5c"
 #   except:
 #     news="Error"
 #   return news
-
 
 def extract_portal_name(url):
     portal_name = re.search(r"https?://(?:www\.)?(\w+)\.", url)
@@ -74,22 +76,18 @@ def get_newsfrom_url(url):
 
     return news
 
+
 def format_paragraph(text):
     #regular expression to match alphabetical characters,numbers,various symbols
     pattern = r'[a-zA-Z0-9!#@]'
     
     #Remove matched characters using the pattern
     text_without_chars = re.sub(pattern,'',text)
-    # Split the text into lines, remove leading and trailing spaces from each line,
-    # and filter out any empty lines.
-    lines = [line.strip() for line in text.splitlines() if line.strip()]
-    
+    # Split the text into lines, remove leading and trailing spaces from each line,  and filter out any empty lines.
+    lines = [line.strip() for line in text_without_chars.splitlines() if line.strip()]
     # Join the lines with a space to ensure words are not concatenated without spacing.
     formatted_text = ' '.join(lines)
-    
     return formatted_text
-
-
 
 def split_text_by_sentence_end_in_range(text, min_chunk_size, max_chunk_size, delimiter='।'):
     words = text.split()
@@ -128,13 +126,13 @@ def split_text_by_sentence_end_in_range(text, min_chunk_size, max_chunk_size, de
     # Add the last chunk if it's not empty
     if current_chunk:
         chunks.append(" ".join(current_chunk))
-
     return chunks
 
 def summary(text, model, tokenizer, max_summary_length):
     inputs = tokenizer(text, return_tensors="pt", max_length=1024, truncation=True)
     input_ids = inputs.input_ids.to(model.device)
     summary_ids = model.generate(input_ids, max_length=max_summary_length, num_beams=4, length_penalty=0.1, early_stopping=True)
+    # print(f'Summary IDS:{summary_ids}')
     generated_summary = tokenizer.decode(summary_ids[0], skip_special_tokens=True)
     return generated_summary
 
@@ -167,8 +165,8 @@ def mt5Summary(text,model,tokenizer,max_summary_length=512):
 
 #short summary
 def mbartSummary(text,model,tokenizer,max_summary_length=512):
-    input = tokenizer2(text,return_tensors="pt",max_length=max_summary_length,truncation=True)
-    summary_ids = model.generate(input.input_ids.to(model.device), 
+    inputs = tokenizer(text,return_tensors="pt",max_length=max_summary_length,truncation=True)
+    summary_ids = model.generate(inputs.input_ids.to(model.device), 
                                   max_length=max_summary_length, 
                                   num_beams=5,
                                   length_penalty=0.1,
@@ -176,21 +174,23 @@ def mbartSummary(text,model,tokenizer,max_summary_length=512):
 
     # Decode the generated summary
     summary = tokenizer.decode(summary_ids[0], skip_special_tokens=True)
-
     return summary
 
 @app.route('/', methods=['GET', 'POST'])
 def summarize():
-  
-
     request.method == 'POST'
-    data = request.json
-    # print("Received data",data)
-    text = data['text']
-    selected_model = data['selectedModel']
-    selected_length = data['selectedLength']
+    data = request.json  
+    print(f"data: {data}")  
+    text = data.get('text', '')  
+    given_url = data.get('url', '')  
+    selected_model = data.get('selectedModel')
+    selected_length = data.get('selectedLength')
+
+    if given_url:
+        text = get_newsfrom_url(given_url)
+       
+
     formatted_text = format_paragraph(text)
-    # print('Formatted text:',formatted_text)
 
     if selected_model == 'model1' and selected_length== 'short':
         summarized_text = mt5Summary(formatted_text, model, tokenizer)
@@ -198,6 +198,7 @@ def summarize():
         summarized_text = summary_nepali(formatted_text,model,tokenizer)
     elif selected_model == 'model2' and selected_length == 'short':
         summarized_text = mbartSummary(formatted_text,model2,tokenizer2)
+        print(summarized_text)
     elif selected_model == 'model2' and selected_length == 'long':
         summarized_text = summary_nepali(formatted_text,model2,tokenizer2)
     
