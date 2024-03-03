@@ -1,7 +1,14 @@
 from flask import Flask, render_template, request
+import requests
 from flask_cors import CORS
 from flask import jsonify
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+import re
+from Scrapper.onlinekhabar import OnlinekhabarScraper
+from Scrapper.ekantipur import EkantipurkhabarScraper
+from Scrapper.nayapatrika import NayaPatrikaScraper
+from Scrapper.setopati import SetopatiScraper
+from Scrapper.ratopati import RatopatiScraper
 
 app = Flask(__name__)
 CORS(app)
@@ -14,9 +21,65 @@ model = AutoModelForSeq2SeqLM.from_pretrained("Adarsh203/new_mT5_Sum")
 tokenizer2 = AutoTokenizer.from_pretrained("Kishan11/mBART_SUM")
 model2 = AutoModelForSeq2SeqLM.from_pretrained("Kishan11/mBART_SUM")
 
+API_KEY = "b990dbcbaf50a594e0f123cdd9f976706c7e4e5c"
 
+
+#extracting news through url
+# def get_newsfrom_url(url):
+
+#   endpoint = "https://extractorapi.com/api/v1/extractor"
+#   params = {
+#     "apikey": API_KEY,
+#     "url": url
+#   }
+#   r = requests.get(endpoint, params=params)
+#   resp=r.json()
+#   try:
+#     news=resp['text']
+#   except:
+#     news="Error"
+#   return news
+
+
+def extract_portal_name(url):
+    portal_name = re.search(r"https?://(?:www\.)?(\w+)\.", url)
+    if portal_name:
+        return portal_name.group(1)
+    return "Unknown"
+
+
+def get_newsfrom_url(url):
+    portal_name = extract_portal_name(url)
+    news = "Couldn't find url"  # Default message
+    try:
+        match portal_name:
+            case "onlinekhabar":
+                scraper = OnlinekhabarScraper(url)
+            case "ratopati":
+                scraper = RatopatiScraper(url)
+            case "setopati":
+                scraper = SetopatiScraper(url)
+            case "nayapatrikadaily":
+                scraper = NayaPatrikaScraper(url)
+            case "ekantipur":
+                scraper = EkantipurkhabarScraper(url)
+            case _:
+                scraper = None
+        
+        if scraper:
+            news_json = scraper.get_news_json()
+            news = news_json.get("news_content", "News content not found")
+    except Exception as e:
+        news = f"Error fetching news: {e}"
+
+    return news
 
 def format_paragraph(text):
+    #regular expression to match alphabetical characters,numbers,various symbols
+    pattern = r'[a-zA-Z0-9!#@]'
+    
+    #Remove matched characters using the pattern
+    text_without_chars = re.sub(pattern,'',text)
     # Split the text into lines, remove leading and trailing spaces from each line,
     # and filter out any empty lines.
     lines = [line.strip() for line in text.splitlines() if line.strip()]

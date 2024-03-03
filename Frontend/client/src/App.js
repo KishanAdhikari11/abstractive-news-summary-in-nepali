@@ -7,21 +7,29 @@ const App = () => {
   const [summarizedText, setSummarizedText] = useState('');
   const [selectedModel, setSelectedModel] = useState('model1')
   const [selectedLength, setSelectedLength] = useState('short')
+  const [url,setUrl] = useState('')
 
 // counts the word
   const countWords = (str='') => {
     return str.split(/\s+/).filter(Boolean).length;
   };
 
+  const handleUrlChange = (e)=> {
+    const inputUrl = e.target.value;
+    setUrl(inputUrl);
+    setText('');
+  }
+
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    const requestBody = url ? {url,selectedModel,selectedLength} : {text,selectedModel,selectedLength};
     const response = await fetch('/',{
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({text,selectedModel,selectedLength}),
+      body: JSON.stringify(requestBody),
     });
     const data = await response.json();
     console.log('Response data:',data);
@@ -70,6 +78,18 @@ return (
           </div>
       </div>
       <form onSubmit={handleSubmit}>
+      <div className="mb-3">
+        <label htmlFor='urlInput' className="form-label">Enter URL:</label>
+        <input 
+        type="text"
+        id='urlInput'
+        className='form-control'
+        placeholder='Enter News URL here...'
+        value={url}
+        onChange={handleUrlChange}
+        >
+        </input>
+        </div>
         <div className="mb-3">
           <textarea
             className="form-control"
