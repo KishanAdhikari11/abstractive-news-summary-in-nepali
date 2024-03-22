@@ -1,2 +1,12 @@
 # abstractive-news-summary-in-nepali
-Transformer based nepali news summarizer.
+Nepali News Summarizer using mT5 and mBART model.
+# To run this application
+```
+docker-compose up
+```
+# To run directly without docker
+```
+npm run start
+python3 app.py
+```
+
