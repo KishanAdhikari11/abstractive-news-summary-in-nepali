@@ -3,12 +3,18 @@ services:
   backend:
     build:
       context: ./Backend
-      dockerfile: dockerfile
+      dockerfile: Dockerfile
     ports:
       - "5000:5000"
   frontend:
     build:
       context: ./client
-      dockerfile: dockerfile
+      dockerfile: Dockerfile
+    depends_on:
+      - backend
     ports:
       - "4000:4000"
+
+networks:
+  default:
+    driver: bridge
