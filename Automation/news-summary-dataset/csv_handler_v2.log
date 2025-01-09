@@ -1,0 +1,1031 @@
+2025-01-09 15:10:21,546 - INFO - CSVHandler initialized with file path: news_data.csv
+2025-01-09 15:10:22,148 - INFO - Number of links found: 12 on page 1
+2025-01-09 15:10:22,666 - INFO - Number of links found: 12 on page 2
+2025-01-09 15:10:23,178 - INFO - Number of links found: 12 on page 3
+2025-01-09 15:10:23,917 - INFO - Number of links found: 12 on page 4
+2025-01-09 15:10:24,434 - INFO - Number of links found: 12 on page 5
+2025-01-09 15:10:25,016 - INFO - Number of links found: 12 on page 6
+2025-01-09 15:10:25,530 - INFO - Number of links found: 12 on page 7
+2025-01-09 15:10:26,048 - INFO - Number of links found: 12 on page 8
+2025-01-09 15:10:26,582 - INFO - Number of links found: 12 on page 9
+2025-01-09 15:10:27,128 - INFO - Number of links found: 12 on page 10
+2025-01-09 15:10:27,665 - INFO - Number of links found: 12 on page 11
+2025-01-09 15:10:28,212 - INFO - Number of links found: 12 on page 12
+2025-01-09 15:10:29,046 - INFO - Number of links found: 12 on page 13
+2025-01-09 15:10:29,877 - INFO - Number of links found: 12 on page 14
+2025-01-09 15:10:30,418 - INFO - Number of links found: 12 on page 15
+2025-01-09 15:10:30,972 - INFO - Number of links found: 12 on page 16
+2025-01-09 15:10:31,503 - INFO - Number of links found: 12 on page 17
+2025-01-09 15:10:32,035 - INFO - Number of links found: 12 on page 18
+2025-01-09 15:10:32,548 - INFO - Number of links found: 12 on page 19
+2025-01-09 15:10:33,134 - INFO - Number of links found: 12 on page 20
+2025-01-09 15:10:33,680 - INFO - Number of links found: 12 on page 21
+2025-01-09 15:10:34,234 - INFO - Number of links found: 12 on page 22
+2025-01-09 15:10:34,773 - INFO - Number of links found: 12 on page 23
+2025-01-09 15:10:35,259 - INFO - Number of links found: 12 on page 24
+2025-01-09 15:10:36,007 - INFO - Number of links found: 12 on page 25
+2025-01-09 15:10:36,528 - INFO - Number of links found: 12 on page 26
+2025-01-09 15:10:37,058 - INFO - Number of links found: 12 on page 27
+2025-01-09 15:10:37,850 - INFO - Number of links found: 12 on page 28
+2025-01-09 15:10:38,461 - INFO - Number of links found: 12 on page 29
+2025-01-09 15:10:39,006 - INFO - Number of links found: 12 on page 30
+2025-01-09 15:10:39,759 - INFO - Number of links found: 12 on page 31
+2025-01-09 15:10:40,293 - INFO - Number of links found: 12 on page 32
+2025-01-09 15:10:40,889 - INFO - Number of links found: 12 on page 33
+2025-01-09 15:10:41,435 - INFO - Number of links found: 12 on page 34
+2025-01-09 15:10:42,305 - INFO - Number of links found: 12 on page 35
+2025-01-09 15:10:43,071 - INFO - Number of links found: 12 on page 36
+2025-01-09 15:10:43,637 - INFO - Number of links found: 12 on page 37
+2025-01-09 15:10:44,166 - INFO - Number of links found: 12 on page 38
+2025-01-09 15:10:44,730 - INFO - Number of links found: 12 on page 39
+2025-01-09 15:10:45,331 - INFO - Number of links found: 12 on page 40
+2025-01-09 15:10:45,907 - INFO - Number of links found: 12 on page 41
+2025-01-09 15:10:46,449 - INFO - Number of links found: 12 on page 42
+2025-01-09 15:10:46,969 - INFO - Number of links found: 12 on page 43
+2025-01-09 15:10:47,509 - INFO - Number of links found: 12 on page 44
+2025-01-09 15:10:48,056 - INFO - Number of links found: 12 on page 45
+2025-01-09 15:10:48,645 - INFO - Number of links found: 12 on page 46
+2025-01-09 15:10:49,216 - INFO - Number of links found: 12 on page 47
+2025-01-09 15:10:49,824 - INFO - Number of links found: 12 on page 48
+2025-01-09 15:10:50,343 - INFO - Number of links found: 12 on page 49
+2025-01-09 15:10:50,924 - INFO - Number of links found: 12 on page 50
+2025-01-09 15:10:51,442 - INFO - Number of links found: 12 on page 51
+2025-01-09 15:10:51,988 - INFO - Number of links found: 12 on page 52
+2025-01-09 15:10:52,578 - INFO - Number of links found: 12 on page 53
+2025-01-09 15:10:53,268 - INFO - Number of links found: 12 on page 54
+2025-01-09 15:10:53,896 - INFO - Number of links found: 12 on page 55
+2025-01-09 15:10:54,436 - INFO - Number of links found: 12 on page 56
+2025-01-09 15:10:54,973 - INFO - Number of links found: 12 on page 57
+2025-01-09 15:10:55,604 - INFO - Number of links found: 12 on page 58
+2025-01-09 15:10:56,147 - INFO - Number of links found: 12 on page 59
+2025-01-09 15:10:56,790 - INFO - Number of links found: 12 on page 60
+2025-01-09 15:10:57,443 - INFO - Number of links found: 12 on page 61
+2025-01-09 15:10:58,095 - INFO - Number of links found: 12 on page 62
+2025-01-09 15:10:58,660 - INFO - Number of links found: 12 on page 63
+2025-01-09 15:10:59,205 - INFO - Number of links found: 12 on page 64
+2025-01-09 15:10:59,750 - INFO - Number of links found: 12 on page 65
+2025-01-09 15:11:00,642 - INFO - Number of links found: 12 on page 66
+2025-01-09 15:11:01,222 - INFO - Number of links found: 12 on page 67
+2025-01-09 15:11:01,891 - INFO - Number of links found: 12 on page 68
+2025-01-09 15:11:02,611 - INFO - Number of links found: 12 on page 69
+2025-01-09 15:11:03,170 - INFO - Number of links found: 12 on page 70
+2025-01-09 15:11:03,770 - INFO - Number of links found: 12 on page 71
+2025-01-09 15:11:04,373 - INFO - Number of links found: 12 on page 72
+2025-01-09 15:11:04,968 - INFO - Number of links found: 12 on page 73
+2025-01-09 15:11:05,566 - INFO - Number of links found: 12 on page 74
+2025-01-09 15:11:06,565 - INFO - Number of links found: 12 on page 75
+2025-01-09 15:11:07,207 - INFO - Number of links found: 12 on page 76
+2025-01-09 15:11:07,749 - INFO - Number of links found: 12 on page 77
+2025-01-09 15:11:08,348 - INFO - Number of links found: 12 on page 78
+2025-01-09 15:11:08,950 - INFO - Number of links found: 12 on page 79
+2025-01-09 15:11:09,566 - INFO - Number of links found: 12 on page 80
+2025-01-09 15:11:10,174 - INFO - Number of links found: 12 on page 81
+2025-01-09 15:11:10,762 - INFO - Number of links found: 12 on page 82
+2025-01-09 15:11:11,506 - INFO - Number of links found: 12 on page 83
+2025-01-09 15:11:12,328 - INFO - Number of links found: 12 on page 84
+2025-01-09 15:11:12,846 - INFO - Number of links found: 12 on page 85
+2025-01-09 15:11:13,298 - INFO - Number of links found: 12 on page 86
+2025-01-09 15:11:13,862 - INFO - Number of links found: 12 on page 87
+2025-01-09 15:11:14,351 - INFO - Number of links found: 12 on page 88
+2025-01-09 15:11:14,921 - INFO - Number of links found: 12 on page 89
+2025-01-09 15:11:15,475 - INFO - Number of links found: 12 on page 90
+2025-01-09 15:11:16,052 - INFO - Number of links found: 12 on page 91
+2025-01-09 15:11:16,504 - INFO - Number of links found: 12 on page 92
+2025-01-09 15:11:17,153 - INFO - Number of links found: 12 on page 93
+2025-01-09 15:11:17,682 - INFO - Number of links found: 12 on page 94
+2025-01-09 15:11:18,395 - INFO - Number of links found: 12 on page 95
+2025-01-09 15:11:18,915 - INFO - Number of links found: 12 on page 96
+2025-01-09 15:11:19,670 - INFO - Number of links found: 12 on page 97
+2025-01-09 15:11:20,212 - INFO - Number of links found: 12 on page 98
+2025-01-09 15:11:20,751 - INFO - Number of links found: 12 on page 99
+2025-01-09 15:11:21,426 - INFO - Number of links found: 12 on page 100
+2025-01-09 15:11:21,971 - INFO - Number of links found: 12 on page 101
+2025-01-09 15:11:22,565 - INFO - Number of links found: 12 on page 102
+2025-01-09 15:11:23,218 - INFO - Number of links found: 12 on page 103
+2025-01-09 15:11:23,795 - INFO - Number of links found: 12 on page 104
+2025-01-09 15:11:24,435 - INFO - Number of links found: 12 on page 105
+2025-01-09 15:11:24,969 - INFO - Number of links found: 12 on page 106
+2025-01-09 15:11:25,646 - INFO - Number of links found: 12 on page 107
+2025-01-09 15:11:26,252 - INFO - Number of links found: 12 on page 108
+2025-01-09 15:11:26,778 - INFO - Number of links found: 12 on page 109
+2025-01-09 15:11:27,338 - INFO - Number of links found: 12 on page 110
+2025-01-09 15:11:27,940 - INFO - Number of links found: 12 on page 111
+2025-01-09 15:11:28,511 - INFO - Number of links found: 12 on page 112
+2025-01-09 15:11:29,228 - INFO - Number of links found: 12 on page 113
+2025-01-09 15:11:29,838 - INFO - Number of links found: 12 on page 114
+2025-01-09 15:11:30,451 - INFO - Number of links found: 12 on page 115
+2025-01-09 15:11:30,986 - INFO - Number of links found: 12 on page 116
+2025-01-09 15:11:31,535 - INFO - Number of links found: 12 on page 117
+2025-01-09 15:11:32,089 - INFO - Number of links found: 12 on page 118
+2025-01-09 15:11:32,621 - INFO - Number of links found: 12 on page 119
+2025-01-09 15:11:33,130 - INFO - Number of links found: 12 on page 120
+2025-01-09 15:11:33,688 - INFO - Number of links found: 12 on page 121
+2025-01-09 15:11:34,278 - INFO - Number of links found: 12 on page 122
+2025-01-09 15:11:34,915 - INFO - Number of links found: 12 on page 123
+2025-01-09 15:11:35,489 - INFO - Number of links found: 12 on page 124
+2025-01-09 15:11:36,021 - INFO - Number of links found: 12 on page 125
+2025-01-09 15:11:36,610 - INFO - Number of links found: 12 on page 126
+2025-01-09 15:11:37,137 - INFO - Number of links found: 12 on page 127
+2025-01-09 15:11:37,702 - INFO - Number of links found: 12 on page 128
+2025-01-09 15:11:38,292 - INFO - Number of links found: 12 on page 129
+2025-01-09 15:11:38,848 - INFO - Number of links found: 12 on page 130
+2025-01-09 15:11:39,408 - INFO - Number of links found: 12 on page 131
+2025-01-09 15:11:40,117 - INFO - Number of links found: 12 on page 132
+2025-01-09 15:11:40,632 - INFO - Number of links found: 12 on page 133
+2025-01-09 15:11:41,291 - INFO - Number of links found: 12 on page 134
+2025-01-09 15:11:41,817 - INFO - Number of links found: 12 on page 135
+2025-01-09 15:11:42,410 - INFO - Number of links found: 12 on page 136
+2025-01-09 15:11:43,206 - INFO - Number of links found: 12 on page 137
+2025-01-09 15:11:43,855 - INFO - Number of links found: 12 on page 138
+2025-01-09 15:11:44,429 - INFO - Number of links found: 12 on page 139
+2025-01-09 15:11:45,046 - INFO - Number of links found: 12 on page 140
+2025-01-09 15:11:45,868 - INFO - Number of links found: 12 on page 141
+2025-01-09 15:11:46,446 - INFO - Number of links found: 12 on page 142
+2025-01-09 15:11:46,960 - INFO - Number of links found: 12 on page 143
+2025-01-09 15:11:47,536 - INFO - Number of links found: 12 on page 144
+2025-01-09 15:11:48,072 - INFO - Number of links found: 12 on page 145
+2025-01-09 15:11:48,641 - INFO - Number of links found: 12 on page 146
+2025-01-09 15:11:49,213 - INFO - Number of links found: 12 on page 147
+2025-01-09 15:11:49,741 - INFO - Number of links found: 12 on page 148
+2025-01-09 15:11:50,505 - INFO - Number of links found: 12 on page 149
+2025-01-09 15:11:51,103 - INFO - Number of links found: 12 on page 150
+2025-01-09 15:11:51,654 - INFO - Number of links found: 12 on page 151
+2025-01-09 15:11:52,215 - INFO - Number of links found: 12 on page 152
+2025-01-09 15:11:53,022 - INFO - Number of links found: 12 on page 153
+2025-01-09 15:11:53,698 - INFO - Number of links found: 12 on page 154
+2025-01-09 15:11:54,708 - INFO - Number of links found: 12 on page 155
+2025-01-09 15:11:55,353 - INFO - Number of links found: 12 on page 156
+2025-01-09 15:11:56,885 - INFO - Number of links found: 12 on page 157
+2025-01-09 15:11:57,474 - INFO - Number of links found: 12 on page 158
+2025-01-09 15:11:58,000 - INFO - Number of links found: 12 on page 159
+2025-01-09 15:11:58,630 - INFO - Number of links found: 12 on page 160
+2025-01-09 15:11:59,200 - INFO - Number of links found: 12 on page 161
+2025-01-09 15:11:59,796 - INFO - Number of links found: 12 on page 162
+2025-01-09 15:12:00,459 - INFO - Number of links found: 12 on page 163
+2025-01-09 15:12:01,096 - INFO - Number of links found: 12 on page 164
+2025-01-09 15:12:01,737 - INFO - Number of links found: 12 on page 165
+2025-01-09 15:12:02,411 - INFO - Number of links found: 12 on page 166
+2025-01-09 15:12:03,081 - INFO - Number of links found: 12 on page 167
+2025-01-09 15:12:03,731 - INFO - Number of links found: 12 on page 168
+2025-01-09 15:12:04,368 - INFO - Number of links found: 12 on page 169
+2025-01-09 15:12:04,984 - INFO - Number of links found: 12 on page 170
+2025-01-09 15:12:05,935 - INFO - Number of links found: 12 on page 171
+2025-01-09 15:12:06,495 - INFO - Number of links found: 12 on page 172
+2025-01-09 15:12:07,066 - INFO - Number of links found: 12 on page 173
+2025-01-09 15:12:07,706 - INFO - Number of links found: 12 on page 174
+2025-01-09 15:12:08,343 - INFO - Number of links found: 12 on page 175
+2025-01-09 15:12:08,996 - INFO - Number of links found: 12 on page 176
+2025-01-09 15:12:09,567 - INFO - Number of links found: 12 on page 177
+2025-01-09 15:12:10,212 - INFO - Number of links found: 12 on page 178
+2025-01-09 15:12:10,722 - INFO - Number of links found: 12 on page 179
+2025-01-09 15:12:11,313 - INFO - Number of links found: 12 on page 180
+2025-01-09 15:12:11,849 - INFO - Number of links found: 12 on page 181
+2025-01-09 15:12:12,447 - INFO - Number of links found: 12 on page 182
+2025-01-09 15:12:13,011 - INFO - Number of links found: 12 on page 183
+2025-01-09 15:12:13,571 - INFO - Number of links found: 12 on page 184
+2025-01-09 15:12:14,123 - INFO - Number of links found: 12 on page 185
+2025-01-09 15:12:14,901 - INFO - Number of links found: 12 on page 186
+2025-01-09 15:12:15,511 - INFO - Number of links found: 12 on page 187
+2025-01-09 15:12:16,052 - INFO - Number of links found: 12 on page 188
+2025-01-09 15:12:16,594 - INFO - Number of links found: 12 on page 189
+2025-01-09 15:12:17,166 - INFO - Number of links found: 12 on page 190
+2025-01-09 15:12:17,724 - INFO - Number of links found: 12 on page 191
+2025-01-09 15:12:18,429 - INFO - Number of links found: 12 on page 192
+2025-01-09 15:12:19,094 - INFO - Number of links found: 12 on page 193
+2025-01-09 15:12:20,072 - INFO - Number of links found: 12 on page 194
+2025-01-09 15:12:20,740 - INFO - Number of links found: 12 on page 195
+2025-01-09 15:12:21,432 - INFO - Number of links found: 12 on page 196
+2025-01-09 15:12:21,965 - INFO - Number of links found: 12 on page 197
+2025-01-09 15:12:22,675 - INFO - Number of links found: 12 on page 198
+2025-01-09 15:12:23,260 - INFO - Number of links found: 12 on page 199
+2025-01-09 15:12:23,912 - INFO - Number of links found: 12 on page 200
+2025-01-09 15:12:24,206 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:24,626 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:25,092 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:25,534 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:26,026 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:26,405 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:26,806 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:27,215 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:27,701 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:28,111 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:28,508 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:28,884 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:29,370 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:29,787 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:30,179 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:30,599 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:31,052 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:31,546 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:32,000 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:32,510 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:32,920 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:33,407 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:33,806 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:34,251 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:34,719 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:35,200 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:35,617 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:36,135 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:36,613 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:37,116 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:37,531 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:38,020 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:38,446 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:38,907 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:39,377 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:39,782 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:40,219 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:40,631 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:41,052 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:41,537 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:42,494 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:42,952 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:43,361 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:43,744 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:44,170 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:44,590 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:45,155 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:45,575 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:45,972 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:46,432 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:46,859 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:47,313 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:47,882 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:48,281 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:48,703 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:49,206 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:49,628 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:50,093 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:50,530 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:50,919 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:51,380 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:51,858 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:52,317 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:52,785 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:53,465 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:54,421 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:54,939 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:55,861 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:56,338 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:56,801 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:57,242 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:57,705 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:58,144 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:58,596 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:59,015 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:59,418 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:12:59,853 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:00,375 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:00,776 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:01,213 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:01,670 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:02,158 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:02,604 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:03,025 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:03,511 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:03,948 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:04,383 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:05,498 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:05,995 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:06,449 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:07,327 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:07,764 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:08,176 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:08,601 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:09,214 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:09,710 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:10,181 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:10,619 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:11,217 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:11,656 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:12,044 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:12,458 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:12,861 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:13,251 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:13,626 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:14,018 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:14,494 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:14,905 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:15,333 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:15,740 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:16,150 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:16,575 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:17,001 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:17,467 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:17,877 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:18,296 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:18,699 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:19,071 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:19,540 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:19,937 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:20,347 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:20,754 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:21,254 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:21,754 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:22,176 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:22,629 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:22,946 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:23,487 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:23,916 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:24,326 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:24,946 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:25,382 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:25,782 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:26,220 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:26,679 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:27,295 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:27,742 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:28,154 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:28,721 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:29,150 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:29,631 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:30,078 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:30,488 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:30,956 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:31,387 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:32,272 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:32,714 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:35,293 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:35,814 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:36,286 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:36,716 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:37,154 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:37,693 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:38,189 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:38,596 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:39,006 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:39,581 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:40,197 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:40,612 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:41,048 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:41,612 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:42,041 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:42,478 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:42,918 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:43,313 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:43,736 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:44,197 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:44,684 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:45,319 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:45,750 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:46,219 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:46,658 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:47,107 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:47,730 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:48,231 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:48,692 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:49,176 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:49,618 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:50,127 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:50,551 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:51,043 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:51,556 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:51,999 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:52,427 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:52,825 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:53,248 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:53,701 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:54,137 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:54,631 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:55,042 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:55,466 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:55,869 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:56,275 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:56,693 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:57,299 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:57,722 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:58,136 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:58,580 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:58,980 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:59,408 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:13:59,857 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:00,305 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:00,735 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:01,159 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:01,593 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:02,012 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:02,462 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:02,973 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:03,433 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:03,990 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:04,475 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:04,922 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:06,253 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:06,819 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:07,309 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:07,741 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:08,207 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:08,661 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:09,104 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:09,516 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:09,918 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:10,421 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:10,834 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:11,267 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:12,158 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:12,567 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:12,991 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:13,389 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:13,840 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:14,301 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:14,706 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:15,084 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:15,356 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:15,661 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:16,119 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:16,558 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:16,972 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:17,409 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:17,844 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:18,249 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:18,702 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:19,128 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:19,623 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:20,058 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:20,497 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:20,976 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:21,470 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:21,886 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:22,292 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:22,738 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:23,147 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:23,627 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:24,159 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:24,705 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:25,218 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:25,744 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:26,160 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:26,580 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:26,989 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:27,455 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:27,902 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:28,345 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:28,743 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:29,180 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:29,782 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:30,197 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:30,619 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:31,002 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:31,454 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:31,929 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:32,319 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:32,721 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:33,118 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:33,533 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:33,947 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:34,382 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:34,775 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:35,219 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:35,670 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:36,071 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:36,556 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:36,932 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:37,331 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:37,724 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:38,165 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:38,546 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:38,914 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:39,351 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:39,798 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:40,213 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:40,664 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:41,103 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:41,537 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:41,953 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:42,350 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:42,751 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:43,176 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:43,577 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:44,023 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:44,456 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:44,944 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:45,439 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:45,860 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:46,260 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:46,678 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:47,336 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:48,483 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:48,906 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:49,318 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:49,731 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:50,134 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:50,545 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:50,934 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:51,328 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:51,732 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:52,116 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:52,540 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:52,970 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:53,361 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:53,933 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:54,330 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:54,719 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:55,157 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:55,598 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:55,980 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:56,414 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:56,898 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:57,340 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:57,815 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:58,230 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:58,637 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:58,999 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:59,421 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:14:59,804 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:00,220 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:00,685 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:01,090 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:01,809 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:02,500 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:02,977 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:03,540 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:04,010 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:04,523 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:04,981 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:05,269 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:05,707 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:06,255 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:06,710 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:07,236 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:07,751 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:08,170 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:08,655 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:09,113 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:09,542 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:09,995 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:10,458 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:10,869 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:11,334 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:11,749 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:12,265 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:12,742 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:13,179 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:13,593 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:14,056 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:14,513 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:14,872 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:15,332 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:15,712 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:16,146 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:16,658 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:17,096 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:17,508 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:17,902 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:18,329 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:18,725 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:19,151 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:19,740 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:20,144 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:20,558 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:21,004 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:21,375 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:21,782 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:22,197 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:22,580 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:23,015 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:23,713 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:24,161 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:24,735 - ERROR - Error fetching the page https://nepalnews.com/s/politics/umls-bimala-ghimire--elected-as-the-vice-president-of-the-national-assembly/: 404 Client Error: Not Found for url: https://nepalnews.com/s/politics/umls-bimala-ghimire--elected-as-the-vice-president-of-the-national-assembly/
+2025-01-09 15:15:25,145 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:25,542 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:25,937 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:26,327 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:26,897 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:27,309 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:27,723 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:28,133 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:28,700 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:29,099 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:29,502 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:29,899 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:30,317 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:30,691 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:31,097 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:31,459 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:31,895 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:32,325 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:32,733 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:33,247 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:33,701 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:34,087 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:34,490 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:34,893 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:35,268 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:35,703 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:36,172 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:36,662 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:37,043 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:37,448 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:37,850 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:38,275 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:38,655 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:39,044 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:39,492 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:39,865 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:40,235 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:40,631 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:41,063 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:41,531 - ERROR - Error fetching the page https://nepalnews.com/s/politics/narayan-prasad-dahal-elected-as-chairperson-of--national-assembly/: 404 Client Error: Not Found for url: https://nepalnews.com/s/politics/narayan-prasad-dahal-elected-as-chairperson-of--national-assembly/
+2025-01-09 15:15:42,148 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:42,587 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:42,992 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:43,408 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:44,826 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:45,212 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:45,628 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:45,989 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:46,381 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:46,774 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:47,195 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:48,099 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:48,491 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:48,852 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:49,221 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:49,634 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:50,049 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:50,484 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:50,880 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:51,332 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:51,736 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:52,147 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:52,530 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:52,940 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:53,324 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:53,693 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:54,143 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:54,543 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:54,918 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:55,356 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:55,841 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:56,236 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:56,604 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:57,143 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:57,571 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:57,972 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:58,783 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:59,222 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:15:59,646 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:00,024 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:00,423 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:00,831 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:01,246 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:01,659 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:02,123 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:02,545 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:02,979 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:03,380 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:03,804 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:04,233 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:04,619 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:05,011 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:05,576 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:05,967 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:06,374 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:06,776 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:07,249 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:07,760 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:08,188 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:08,650 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:09,091 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:09,528 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:10,010 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:10,421 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:10,827 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:11,225 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:11,648 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:12,047 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:12,516 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:12,924 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:13,387 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:13,807 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:14,204 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:14,712 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:15,558 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:15,972 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:16,361 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:16,791 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:17,263 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:17,663 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:18,109 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:18,501 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:18,929 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:19,340 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:19,755 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:20,168 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:20,600 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:21,103 - ERROR - Error fetching the page https://nepalnews.com/s/politics/let-us-pledge-to-realize-an-inclusive-federal-democratic-republic--president-paudel/: 404 Client Error: Not Found for url: https://nepalnews.com/s/politics/let-us-pledge-to-realize-an-inclusive-federal-democratic-republic--president-paudel/
+2025-01-09 15:16:21,587 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:21,989 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:22,812 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:23,192 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:23,627 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:24,107 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:24,495 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:24,859 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:25,231 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:25,678 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:26,212 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:26,659 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:27,065 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:27,560 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:27,964 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:28,342 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:28,659 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:29,539 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:31,109 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:32,227 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:33,482 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:34,398 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:35,331 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:36,314 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:37,390 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:40,184 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:40,605 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:41,086 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:41,516 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:41,974 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:42,395 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:42,849 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:43,333 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:43,729 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:44,130 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:44,547 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:45,060 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:45,478 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:45,871 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:46,337 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:46,730 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:47,151 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:47,551 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:48,355 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:48,762 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:49,202 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:49,613 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:50,007 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:50,433 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:50,854 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:51,304 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:51,732 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:52,197 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:52,669 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:53,133 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:53,460 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:53,905 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:54,437 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:54,902 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:55,326 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:55,747 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:56,144 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:56,546 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:57,091 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:57,569 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:57,975 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:58,403 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:58,828 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:16:59,236 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:00,080 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:00,540 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:01,000 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:01,505 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:01,910 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:02,297 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:02,687 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:03,154 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:03,561 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:04,035 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:04,490 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:04,965 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:05,428 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:05,900 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:06,340 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:06,757 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:07,201 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:07,637 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:08,086 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:08,618 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:08,992 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:09,401 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:09,818 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:10,227 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:10,643 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:11,061 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:11,444 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:11,862 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:12,284 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:12,705 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:13,145 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:13,446 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:13,979 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:14,487 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:14,893 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:15,297 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:15,716 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:16,124 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:16,536 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:16,963 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:17,394 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:17,811 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:18,256 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:18,685 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:19,077 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:19,505 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:20,041 - ERROR - Error fetching the page https://nepalnews.com/s/politics/parliamentarians-responsible-to-make-quality-laws-and-enforce-them--mp-agrahari/: 404 Client Error: Not Found for url: https://nepalnews.com/s/politics/parliamentarians-responsible-to-make-quality-laws-and-enforce-them--mp-agrahari/
+2025-01-09 15:17:20,424 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:20,812 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:21,277 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:21,699 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:22,133 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:22,570 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:23,012 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:23,451 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:23,855 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:24,328 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:24,761 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:25,238 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:25,669 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:26,084 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:26,503 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:26,925 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:27,324 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:27,764 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:28,186 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:28,641 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:29,152 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:29,582 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:29,987 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:30,405 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:31,023 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:31,450 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:31,867 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:32,247 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:32,661 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:33,165 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:33,705 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:34,139 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:34,593 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:34,987 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:35,348 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:35,743 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:36,148 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:36,546 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:37,159 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:37,666 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:38,099 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:38,499 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:38,913 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:39,297 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:39,719 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:40,104 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:40,513 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:40,932 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:41,392 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:41,811 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:42,312 - ERROR - Error fetching the page https://nepalnews.com/s/politics/people-restless-and-enraged--gagan-thapa/: 404 Client Error: Not Found for url: https://nepalnews.com/s/politics/people-restless-and-enraged--gagan-thapa/
+2025-01-09 15:17:42,884 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:43,371 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:43,838 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:44,221 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:44,693 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:45,081 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:45,770 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:46,075 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:46,687 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:51,387 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:51,919 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:52,305 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:52,750 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:53,415 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:53,835 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:57,361 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:57,913 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:58,494 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:17:59,753 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:00,482 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:00,927 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:01,383 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:01,801 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:02,273 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:02,859 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:07,294 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:07,915 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:08,393 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:12,318 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:12,840 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:13,453 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:14,106 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:16,809 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:19,386 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:19,756 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:20,202 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:20,682 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:21,063 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:21,447 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:21,843 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:22,379 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:22,943 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:23,483 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:23,846 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:24,361 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:24,776 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:25,293 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:25,911 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:26,418 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:27,241 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:27,638 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:28,064 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:28,495 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:28,893 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:29,343 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:32,249 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:32,746 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:33,239 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:33,810 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:34,472 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:34,914 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:35,320 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:35,715 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:36,444 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:36,890 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:37,466 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:37,856 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:38,260 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:41,527 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:42,975 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:43,457 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:43,842 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:45,381 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:46,851 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:47,249 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:47,664 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:48,133 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:48,523 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:48,896 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:49,258 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:49,654 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:50,066 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:50,476 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:50,861 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:51,293 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:51,685 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:52,081 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:52,622 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:53,090 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:53,500 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:54,032 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:54,412 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:54,856 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:55,270 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:55,672 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:56,061 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:56,444 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:56,875 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:57,373 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:57,801 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:58,215 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:58,634 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:59,334 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:18:59,746 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:00,198 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:00,624 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:02,052 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:02,442 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:02,907 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:03,385 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:03,793 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:04,193 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:04,617 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:05,095 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:05,513 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:05,946 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:06,331 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:06,753 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:07,161 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:07,594 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:07,989 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:08,395 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:08,778 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:09,219 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:09,696 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:10,109 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:10,542 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:10,925 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:11,322 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:11,772 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:12,186 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:12,584 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:13,068 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:13,481 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:13,867 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:14,336 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:14,729 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:15,135 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:15,604 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:15,977 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:16,482 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:16,932 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:17,360 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:17,810 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:18,214 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:19,226 - INFO - Data appended to existing file: news_data.csv
+2025-01-09 15:19:19,627 - INFO - Data appended to existing file: news_data.csv
