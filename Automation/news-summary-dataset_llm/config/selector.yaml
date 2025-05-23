@@ -1,0 +1,39 @@
+project:
+  name: Nepali-News-Scraper
+  description: 
+
+
+onlinekhabar:
+  base_url: "https://www.onlinekhabar.com"
+  category_url: "https://www.onlinekhabar.com/content/news/rastiya/page{page}"
+  pagination:
+    start: 1
+    end: 100
+
+  list_page:
+    container_selector: "div.span-4"
+    link_selector: "a"
+    link_attr: "href"
+
+  article_page:
+    title:
+      selector: "h1.entry-title"
+      type: text
+
+    date:
+      selector: "div.ok-news-post-hour span"
+      type: text
+      default: "No date"
+
+    summary:
+      selector: "ul.ai_summary_block_list li"
+      type: list
+      join_with: " | "
+      default: "No summary"
+
+    content:
+      selector: "div.ok18-single-post-content-wrap p"
+      type: list
+      join_with: " "
+      default: "No content"
+
